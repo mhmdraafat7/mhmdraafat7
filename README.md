@@ -2,7 +2,7 @@
 - 👀 I’m interested in embededd systems
 - 🌱 I’m currently learning Embededd interfacing 
 - 💞️ I’m looking to collaborate on any embededd projects
-- 📫 How to reach me instgram: @mhmdraafat
+- 📫 you can reach me at mhmd.raafat.eng@gmail.com
 .
 
 <!---
